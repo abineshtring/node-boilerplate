@@ -1,7 +1,7 @@
 
-# Project Title
+# Node Boilerplate Code
 
-Add a short description
+Boilerplate code for Node.js Express backend micro-service.
 
 ## Requirements
 
